@@ -1,3 +1,3 @@
-# ExamenGBI6
-Ruth Guevara
-15/2022
+# ExamenGBI6  
+## Ruth Guevara
+## 15/1/2022
